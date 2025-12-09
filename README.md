@@ -1,4 +1,4 @@
-# 🌟 Hi, I'm Mohammad Khan!
+# 🌟 Hi, I'm Faizan  Khan!
 ### 🚀 Aspiring Full-Stack & Web3 Developer | 💻 Cybersecurity Enthusiast
 
 I'm a computer engineering student passionate about building scalable applications, exploring Web3, DevOps, and learning modern JavaScript technologies.  
